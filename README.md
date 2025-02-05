@@ -48,8 +48,8 @@ These factors were considered but not included as direct predictors to minimize 
 
 ### Handling Missing Data
 
-**Numeric Variables**: Imputed with median values to reduce the impact of outliers.
-**Categorical Variables**: Missing values replaced with "Unknown."
+- **Numeric Variables**: Imputed with median values to reduce the impact of outliers.
+- **Categorical Variables**: Missing values replaced with "Unknown."
 
 A thorough data cleaning process was implemented to enhance reliability and validity.
 
@@ -62,9 +62,9 @@ A thorough data cleaning process was implemented to enhance reliability and vali
 
 ### Correlation Heatmap:
 
-**Positive correlation**: Schooling and life expectancy.
-**Negative correlation**: Adult mortality and life expectancy.
-**Strong correlation**: GDP and health expenditure.
+- **Positive correlation**: Schooling and life expectancy.
+- **Negative correlation**: Adult mortality and life expectancy.
+- **Strong correlation**: GDP and health expenditure.
 
 EDA provided crucial insights into variable distributions, relationships, and potential multicollinearity issues.
 
