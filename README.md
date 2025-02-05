@@ -33,7 +33,7 @@ The life expectancy data used in this study is sourced from:
 
 **Life Expectancy**: Defined as the average number of years a newborn infant is expected to live if current mortality rates persist.
 
-### Predictor Variables**
+### Predictor Variables
 
 - **Economic Factors**: GDP, income composition of resources.
 - **Health Factors**: Adult mortality, infant mortality, alcohol consumption, immunization coverage (Hepatitis B, Polio, Diphtheria), HIV prevalence, measles cases, BMI.
